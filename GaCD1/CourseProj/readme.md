@@ -9,4 +9,4 @@ After that you can run this script. It will create a file named G&CdCourseProjec
 
 It will be better if you set "header = TRUE" in read.table function, when loading file into R.
 
-For descriprions of variables please see CodeBook.ms in this repo.
+For descriprions of variables please see CodeBook.md in this repo.
